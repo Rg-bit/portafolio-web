@@ -193,11 +193,12 @@
   ],
   "projects": [
     {
-      "name": "",
-      "isActive": false,
-      "description": "",
-      "highlights": [""],
-      "url": ""
+      "name": "Portafolio web",
+      "isActive": true,
+      "description": "portafolio web",
+      "highlights": ["en desarrollo"],
+      "url": "https://github.com/Rg-bit/portafolio-web",
+      "github": "https://github.com/Rg-bit/portafolio-web"
     }
   ]
 }
