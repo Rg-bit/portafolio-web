@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Royer Jimenez Mrtinez",
+    "label": "",
+    "image": "/me.webp",
+    "email": "rjim3nez@gmail.com",
+    "phone": "+57 3186579760",
+    "url": "",
+    "summary": "Soy una persona con pasión por la programación y los sistemas, con dinamismo y compromiso por lo que hago, con altos estándares de dedicación y responsabilidad. Aprendo con rapidez nuevas ideas y conceptos.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Santa marta",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Royer Jimenez",
+        "url": "https://www.linkedin.com/in/royer-jimenez-94659b2b0/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Rg-bit",
+        "url": "https://github.com/Rg-bit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "RED ELITE SAS",
+      "position": "Programador front-end junior",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Mis responsabilidades principales incluyeron la creación, edición y corrección de módulos en el front-end de la plataforma utilizando JavaScript, react y bootstrap.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CORPORCIÓN BOLIVARIANA DEL NORTE - CBN",
+      "url": "",
+      "area": "Tecnico en sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "UNIVERSIDAD DEL MAGDALENA",
+      "url": "",
+      "area": "Tecnico en redes",
+      "studyType": "Bachelor",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "UNIVERSIDAD TECNOLAGICA DE PEREIRA",
+      "url": "",
+      "area": "Desarrollo de aplicaciones web",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "isActive": false,
+      "description": "",
+      "highlights": [""],
+      "url": ""
+    }
+  ]
+}
