@@ -199,6 +199,14 @@
       "highlights": ["en desarrollo"],
       "url": "https://github.com/Rg-bit/portafolio-web",
       "github": "https://github.com/Rg-bit/portafolio-web"
+    },
+    {
+      "name": "Spotify clone",
+      "isActive": true,
+      "description": "clon de spotify",
+      "highlights": ["en desarrollo"],
+      "url": "https://github.com/Rg-bit/spotify-clone",
+      "github": "https://github.com/Rg-bit/spotify-clone"
     }
   ]
 }
