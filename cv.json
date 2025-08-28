@@ -6,7 +6,7 @@
     "email": "rjim3nez@gmail.com",
     "phone": "+57 3186579760",
     "url": "",
-    "summary": "Soy una persona con pasión por la programación y los sistemas, con dinamismo y compromiso por lo que hago, con altos estándares de dedicación y responsabilidad. Aprendo con rapidez nuevas ideas y conceptos.",
+    "summary": "Programador Junior con un fuerte compromiso por el desarrollo back-end. Me caracterizo por mi capacidad para aprender rápidamente nuevas ideas y tecnologías, y por mi ética de trabajo y responsabilidad en cada proyecto.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,9 +32,9 @@
       "name": "RED ELITE SAS",
       "position": "Programador front-end junior",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2022-01-01",
       "endDate": "2024-01-01",
-      "summary": "Mis responsabilidades principales incluyeron la creación, edición y corrección de módulos en el front-end de la plataforma utilizando JavaScript, react y bootstrap.",
+      "summary": "Diseñé e implementé módulos y APIs en Node.js para conectar el back-end con la base de datos de manera eficiente, Gestioné la base de datos para asegurar la integridad de los datos y optimicé las consultas de la base de datos, Contribuí activamente en el ciclo de vida de desarrollo de software, incluyendo la depuración, el testeo y el despliegue de nuevas funcionalidades",
       "highlights": ["Started the company"]
     }
   ],
